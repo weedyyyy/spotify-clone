@@ -75,7 +75,7 @@ const Home = () => {
         <div className="min-h-screen bg-gradient-to-br from-slate-900 to-slate-900 text-white">
             <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
                 <div className="flex w-full justify-between">
-                    <h1 className="text-4xl font-bold mb-8">Your Music Library</h1>
+                    <h1 className="text-4xl font-bold mb-8">Your Sound Library</h1>
                     <button
                         onClick={toggleShowFavorites}
                         className="transform transition hover:scale-125 active:scale-150 ml-10"
